@@ -1,0 +1,27 @@
+<svg width="104.000000" height="104.000000" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_52_3770_dd" x="0.000000" y="0.000000" width="104.000000" height="104.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="8"/>
+			<feGaussianBlur stdDeviation="8"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.91765 0 0 0 0 0.48627 0 0 0 0 0.41176 0 0 0 0.32 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip52_3769">
+			<rect id="Icon / Line / Home" width="24.000000" height="24.000000" transform="translate(40.000000 32.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g filter="url(#filter_52_3770_dd)">
+		<rect id="Frame 65" rx="8.000000" width="56.000000" height="56.000000" transform="translate(24.000000 16.000000)" fill="#EA7C69" fill-opacity="1.000000"/>
+		<rect id="Icon / Line / Home" width="24.000000" height="24.000000" transform="translate(40.000000 32.000000)" fill="#000000" fill-opacity="0"/>
+		<g clip-path="url(#clip52_3769)">
+			<path id="Vector" d="M49.7303 34.7883C51.0004 33.7793 52.7804 33.7394 54.0894 34.6683L54.2504 34.7883L60.3394 39.6593C61.0094 40.1783 61.4204 40.9493 61.4904 41.7883L61.5004 41.9894L61.5004 50.0984C61.5004 52.1884 59.8494 53.8883 57.7804 53.9984L55.7904 53.9984C54.8394 53.9794 54.0703 53.2394 54.0004 52.3093L53.9904 52.1683L53.9904 49.3093C53.9904 48.9984 53.7594 48.7394 53.4503 48.6884L53.3604 48.6783L50.6893 48.6783C50.3704 48.6884 50.1104 48.9183 50.0703 49.2184L50.0604 49.3093L50.0604 52.1593C50.0604 52.2184 50.0493 52.2883 50.0404 52.3384L50.0304 52.3594L50.0194 52.4283C49.9004 53.2793 49.2003 53.9283 48.3303 53.9894L48.2003 53.9984L46.4104 53.9984C44.3203 53.9984 42.6104 52.3594 42.5004 50.2983L42.5004 41.9894C42.5094 41.1383 42.8804 40.3484 43.5004 39.7983L49.7303 34.7883ZM53.3804 35.8783C52.6204 35.2683 51.5404 35.2394 50.7404 35.7683L50.5894 35.8783L44.5094 40.7793C44.1604 41.0383 43.9503 41.4283 43.9004 41.8384L43.8894 41.9984L43.8894 50.0984C43.8894 51.4283 44.9293 52.5183 46.2504 52.5984L48.2003 52.5984C48.4204 52.5984 48.6104 52.4493 48.6394 52.2394L48.6604 52.0593L48.6704 52.0083L48.6704 49.3093C48.6704 48.2394 49.4904 47.3694 50.5404 47.2883L53.3604 47.2883C54.4293 47.2883 55.2993 48.1094 55.3804 49.1593L55.3804 52.1683C55.3804 52.3783 55.5304 52.5593 55.7303 52.5984L57.5894 52.5984C58.9293 52.5984 60.0194 51.5693 60.0994 50.2583L60.1104 50.0984L60.1104 41.9984C60.0994 41.5693 59.9204 41.1683 59.6104 40.8694L59.4803 40.7583L53.3804 35.8783Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>
