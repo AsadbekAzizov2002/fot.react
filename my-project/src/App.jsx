@@ -22,7 +22,7 @@ const App = () => {
     .then((data)=>setDishes(data))
   }, [])
 
-const [step, setStep]= useState(2);
+const [step, setStep]= useState(1);
 const increment =()=>{
   setStep(step +1);
 }
@@ -31,8 +31,8 @@ const decler =()=>{
 }
 
   return (   
-      <div className=" container bg-slate-900 w-full h-screen flex">
-        <div className=" chaptarafdagi-div bg-slate-950 w-[104px] h-[834px] justify-start pt-6">
+      <div className=" container w-full bg-slate-800   flex">
+        <div className=" container chaptarafdagi-div bg-slate-950 w-[104px] h-[834px] justify-start pt-6">
           <img className="mb-3 ml-[20px]" src={vector1} alt="img" />
           <img className="mb-3" src={vector2} alt="img" />
           <img className="mb-3 ml-[20px]" src={vector3} alt="img" />
@@ -45,10 +45,10 @@ const decler =()=>{
         </div>
         {
           step ===1 && (
-            <div className="step1 bg-slate-800 h-full">
-              <div className='flex'>
+            <div className=" container step1 bg-slate-800 h-full">
+              <div className='flex justify-between'>
                 <div>
-              <div className="Header flex justify-between pl-[24px] pt-6 items-center w-[633px]">
+              <div className="Header flex justify-between pl-[24px] pt-6 items-center w-[833px]">
               <div>
                <img src={resto} alt="img" />
                 <h2 className=" text-white">Tuesday, 2 Feb 2021</h2>
@@ -91,7 +91,7 @@ const decler =()=>{
               </div>
 
                 </div>
-               <div className="right-dev w-[361px] ml-6 border rounded bg-slate-900">
+               <div className=" h-screen right-dev w-[361px] ml-6 border rounded bg-slate-900">
                 <>
                 <h1 className=" text-white font-bold">Orders #34562</h1>
                 <div className=" flex mt-6 gap-2">
